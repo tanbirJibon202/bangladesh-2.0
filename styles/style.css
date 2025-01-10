@@ -18,13 +18,17 @@
     border-radius: 24px;
     display: flex;
     justify-content: space-between;
-    margin: 120px 160px;
+    margin: 85px 70px;
+    width: 1200px;
+    height: 510px;
+
 }
 
 .h1_tag{
     color: #0E0E0E;
     font-weight: 700;
     font-size: 56px;
+    padding: 117px 550 117px 60px;
 
 }
 
@@ -32,15 +36,18 @@
     color: rgba(14, 14, 14, 0.5);
     font-weight: 500;
     font-size: 24px;
+ 
 
 }
 
 .banner-profile-pic{
     width: 470px;
-    margin: 60px 150px 150px 60px;
+    padding: 60px 20px 80px 10px;
 }
 
 .banner-content{
-    max-width: 620px;
-    margin: 115px 60px 195px 60px;
+    
+    padding: 39px 26px 50px 40px;
+    
+
 }
