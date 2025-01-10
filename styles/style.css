@@ -1,0 +1,46 @@
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.btn-primary{
+    background-color: #006A50;
+    font-weight: 600;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-size: 18px;
+    border: none;
+    color: white;
+}
+
+.banner{
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin: 120px 160px;
+}
+
+.h1_tag{
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 56px;
+
+}
+
+.h4_tag{
+    color: rgba(14, 14, 14, 0.5);
+    font-weight: 500;
+    font-size: 24px;
+
+}
+
+.banner-profile-pic{
+    width: 470px;
+    margin: 60px 150px 150px 60px;
+}
+
+.banner-content{
+    max-width: 620px;
+    margin: 115px 60px 195px 60px;
+}
