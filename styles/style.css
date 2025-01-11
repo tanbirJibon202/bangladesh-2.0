@@ -75,10 +75,12 @@
 .card-container{
     display: flex;
     gap: 24px;
+    margin: 28px 50px 0px 0px;
 }
+    
 
-.card-descriptino{
-    padding: 0px 5px 0px 20px;
+.card-description{
+    padding: 0px 0px 0px 20px;
     font-size: 16px;
     color: rgba(14, 14, 14, 0.7);
 }
@@ -176,6 +178,7 @@
 .recent-news{
     width:1280px;
     height: 1400;
+    margin: -70px 0px 0px 38px;
     
 }
 .news-description{
@@ -186,11 +189,46 @@
 .portion-2{
     display: flex;
     gap: 32px;
+    margin-bottom: 25px;
 }
 .portion-3{
     display: flex;
     gap: 32px;
+    margin-bottom: 50px;
 }
+
+.satelite-img{
+    width: 408px;
+    height: 306px;
+   border-radius: 10%;
+}
+
+.satelite-title{
+    color: rgba(14, 14, 14, 0.8);
+}
+.para-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    
+}
+.date-time{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+}
+
+.btn-news{
+    background-color: #006A50;
+    font-weight: 600;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-size: 13px;
+    border: none;
+    color: white; 
+    width: 139px;
+    height: 48px;
+}
+
+
 
 
 
@@ -212,4 +250,50 @@
 
 .donted-today{
     text-align: center;
+    margin: 0px 50px 0px 50px;
+
+}
+
+
+
+
+
+.donted-btn{
+    margin: 32px;
+}
+
+.input-amount{
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+
+}
+
+.card-donted{
+    display: flex;
+}
+
+.card-1{
+
+}
+.card-2{
+
+}
+.card-3{
+
+}
+.card-4{
+
+}
+.btn-donted{
+    background-color: #006A50;
+    font-weight: 600;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-size: 13px;
+    border: none;
+    color: white; 
+    width: 139px;
+    height: 48px;
+    margin-top: 32px;
 }
