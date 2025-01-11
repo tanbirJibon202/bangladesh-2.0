@@ -76,7 +76,7 @@
     gap: 24px;
 }
 
-.card-description{
+.card-descriptino{
     padding: 0px 5px 0px 20px;
     font-size: 16px;
     color: rgba(14, 14, 14, 0.7);
@@ -171,6 +171,26 @@
     margin: 80px 40px;
     background-color: rgba(14, 14, 14, 0.02);
 }
+
+.recent-news{
+    width:1280px;
+    height: 1400;
+    margin-bottom: 100px;
+}
+.news-description{
+    font-size:16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.portion-2{
+    display: flex;
+    gap: 32px;
+}
+.portion-3{
+    display: flex;
+    gap: 32px;
+}
+
 
 
 
